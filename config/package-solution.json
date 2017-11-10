@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "office-365-bootcamp-sample-client-side-solution",
+    "id": "75000a2c-72cb-41a1-b16c-d3267dc73190",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/office-365-bootcamp-sample.sppkg"
+  }
+}
